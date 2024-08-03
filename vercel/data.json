@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Sujoy Ghoshal",
+        "age": 21,
+        "email": "sujoyghoshal.s@gmail.com",
+        "Address": "Maligram Pingla Paschim Medinipur",
+        "Gender": "Male"
+    },
+    {
+        "id": 2,
+        "name": "Amit Sharma",
+        "age": 25,
+        "email": "amit.sharma@example.com",
+        "Address": "Sector 15, Gurgaon",
+        "Gender": "Male"
+    },
+    {
+        "id": 3,
+        "name": "Neha Singh",
+        "age": 22,
+        "email": "neha.singh@example.com",
+        "Address": "Bangalore East, Bangalore",
+        "Gender": "Female"
+    },
+    {
+        "id": 4,
+        "name": "Raj Patel",
+        "age": 29,
+        "email": "raj.patel@example.com",
+        "Address": "Andheri, Mumbai",
+        "Gender": "Male"
+    },
+    {
+        "id": 5,
+        "name": "Priya Gupta",
+        "age": 24,
+        "email": "priya.gupta@example.com",
+        "Address": "Sector 21, Noida",
+        "Gender": "Female"
+    },
+    {
+        "id": 6,
+        "name": "Karan Mehta",
+        "age": 30,
+        "email": "karan.mehta@example.com",
+        "Address": "Vashi, Navi Mumbai",
+        "Gender": "Male"
+    },
+    {
+        "id": 7,
+        "name": "Simran Kaur",
+        "age": 27,
+        "email": "simran.kaur@example.com",
+        "Address": "Saket, Delhi",
+        "Gender": "Female"
+    },
+    {
+        "id": 8,
+        "name": "Aakash Verma",
+        "age": 26,
+        "email": "aakash.verma@example.com",
+        "Address": "Jayanagar, Bangalore",
+        "Gender": "Male"
+    },
+    {
+        "id": 9,
+        "name": "Ritu Agarwal",
+        "age": 23,
+        "email": "ritu.agarwal@example.com",
+        "Address": "Salt Lake, Kolkata",
+        "Gender": "Female"
+    },
+    {
+        "id": 10,
+        "name": "Vikram Singh",
+        "age": 28,
+        "email": "vikram.singh@example.com",
+        "Address": "Pimpri-Chinchwad, Pune",
+        "Gender": "Male"
+    }
+]
